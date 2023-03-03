@@ -1,4 +1,4 @@
-# Sample Project
+# React Radix
 
 ## Table of Contents
 
